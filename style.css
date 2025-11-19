@@ -7,6 +7,14 @@
         display: block;
     }
 
+        #small h2 {
+        font-size: 1.2rem;
+    }
+
+    #small p {
+        font-size: 0.9rem;
+    }
+
     #medium, #large {
         display: none;
     }
@@ -21,6 +29,14 @@
         display: block;
     }
 
+     #medium h2 {
+        font-size: 1.6rem;
+    }
+
+    #medium p {
+        font-size: 1.1rem;
+    }
+
     #small, #large {
         display: none;
     }
@@ -33,6 +49,14 @@
 
      #large {
         display: block;
+    }
+
+    #large h2 {
+        font-size: 2rem;
+    }
+    
+    #large p {
+        font-size: 1.2rem;
     }
 
     #small, #medium {
